@@ -1,0 +1,943 @@
+date,market_size,market,product_line,product_type,profit,sales,state,target_sales,type
+2012-10-01T00:00:00,Major Market,Central,Tea,Lemon,-5,122,Colorado,90.00,Decaf
+2012-10-01T00:00:00,Major Market,Central,Tea,Mint,26,123,Colorado,90,Decaf
+2012-10-01T00:00:00,Major Market,South,Tea,Lemon,28,107,Texas,90,Decaf
+2012-10-01T00:00:00,Major Market,East,Tea,Darjeeling,35,94,Florida,100,Regular
+2012-10-01T00:00:00,Major Market,West,Tea,Green Tea,56,182,California,80,Regular
+2012-10-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,31,43,Iowa,60,Decaf
+2012-10-01T00:00:00,Small Market,East,Coffee,Decaf Espresso,21,111,Connecticut,90,Decaf
+2012-10-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,21,66,Oklahoma,90,Decaf
+2012-10-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,7,68,Nevada,90,Decaf
+2012-10-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,37,99,Utah,80,Decaf
+2012-10-01T00:00:00,Small Market,East,Coffee,Amaretto,33,120,New Hampshire,90,Regular
+2012-10-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,-7,109,New Hampshire,90,Regular
+2012-10-01T00:00:00,Small Market,South,Coffee,Caffe Latte,1,144,Louisiana,90,Regular
+2012-10-01T00:00:00,Small Market,West,Coffee,Caffe Latte,12,120,Oregon,100,Regular
+2012-10-01T00:00:00,Small Market,Central,Tea,Chamomile,-6,109,Missouri,80,Decaf
+2012-10-01T00:00:00,Small Market,Central,Tea,Lemon,45,118,Wisconsin,90,Decaf
+2012-10-01T00:00:00,Small Market,West,Tea,Chamomile,33,120,Utah,90,Decaf
+2012-10-01T00:00:00,Small Market,West,Tea,Lemon,47,119,Washington,90,Decaf
+2012-10-01T00:00:00,Small Market,East,Tea,Darjeeling,36,99,Connecticut,100,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Earl Grey,64,205,Oregon,90,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Green Tea,76,218,Oregon,100,Regular
+2012-11-01T00:00:00,Major Market,South,Coffee,Decaf Irish Cream,26,92,Texas,100,Decaf
+2012-11-01T00:00:00,Major Market,South,Coffee,Decaf Espresso,48,123,Texas,90,Decaf
+2012-11-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-8,120,Massachusetts,110,Regular
+2012-11-01T00:00:00,Major Market,East,Tea,Mint,44,164,Florida,110,Decaf
+2012-11-01T00:00:00,Major Market,South,Tea,Lemon,31,114,Texas,100,Decaf
+2012-11-01T00:00:00,Major Market,Central,Tea,Darjeeling,15,124,Colorado,100,Regular
+2012-11-01T00:00:00,Major Market,Central,Tea,Darjeeling,48,123,Illinois,100,Regular
+2012-11-01T00:00:00,Major Market,Central,Tea,Earl Grey,29,125,Colorado,100,Regular
+2012-11-01T00:00:00,Major Market,East,Tea,Darjeeling,31,88,Massachusetts,90,Regular
+2012-11-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,27,81,Missouri,100,Decaf
+2012-11-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,28,78,Louisiana,90,Decaf
+2012-11-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,30,88,Oklahoma,100,Decaf
+2012-11-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,34,120,Louisiana,90,Decaf
+2012-11-01T00:00:00,Small Market,Central,Coffee,Amaretto,14,121,Wisconsin,110,Regular
+2012-11-01T00:00:00,Small Market,East,Coffee,Amaretto,30,113,New Hampshire,100,Regular
+2012-11-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,-8,106,New Hampshire,100,Regular
+2012-11-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,49,141,Louisiana,100,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,13,121,Washington,110,Regular
+2012-11-01T00:00:00,Small Market,South,Tea,Chamomile,13,121,Oklahoma,110,Decaf
+2012-11-01T00:00:00,Small Market,West,Tea,Chamomile,30,113,Utah,100,Decaf
+2012-11-01T00:00:00,Small Market,West,Tea,Lemon,20,109,Utah,100,Decaf
+2012-11-01T00:00:00,Small Market,West,Tea,Lemon,44,115,Washington,100,Decaf
+2012-11-01T00:00:00,Small Market,East,Tea,Green Tea,33,90,Connecticut,90,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Green Tea,1,147,Washington,100,Regular
+2012-12-01T00:00:00,Major Market,South,Coffee,Decaf Irish Cream,30,99,Texas,110,Decaf
+2012-12-01T00:00:00,Major Market,South,Coffee,Decaf Espresso,52,133,Texas,100,Decaf
+2012-12-01T00:00:00,Major Market,Central,Tea,Lemon,-6,112,Colorado,100,Decaf
+2012-12-01T00:00:00,Major Market,Central,Tea,Mint,29,127,Colorado,110,Decaf
+2012-12-01T00:00:00,Major Market,East,Tea,Lemon,23,145,Florida,100,Decaf
+2012-12-01T00:00:00,Major Market,East,Tea,Mint,50,176,Florida,120,Decaf
+2012-12-01T00:00:00,Major Market,South,Tea,Chamomile,28,127,Texas,110,Decaf
+2012-12-01T00:00:00,Major Market,South,Tea,Lemon,24,101,Texas,90,Decaf
+2012-12-01T00:00:00,Major Market,West,Tea,Earl Grey,53,133,California,90,Regular
+2012-12-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,27,77,Missouri,90,Decaf
+2012-12-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,31,85,Louisiana,100,Decaf
+2012-12-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,28,82,Oklahoma,90,Decaf
+2012-12-01T00:00:00,Small Market,South,Coffee,Caffe Latte,-3,131,Louisiana,100,Regular
+2012-12-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,-5,118,New Mexico,90,Regular
+2012-12-01T00:00:00,Small Market,Central,Tea,Chamomile,-5,118,Missouri,100,Decaf
+2012-12-01T00:00:00,Small Market,Central,Tea,Chamomile,30,107,Wisconsin,90,Decaf
+2012-12-01T00:00:00,Small Market,Central,Tea,Lemon,16,160,Missouri,140,Decaf
+2012-12-01T00:00:00,Small Market,East,Tea,Lemon,27,153,Connecticut,110,Decaf
+2012-12-01T00:00:00,Small Market,East,Tea,Mint,36,139,Connecticut,100,Decaf
+2012-12-01T00:00:00,Small Market,West,Tea,Mint,17,160,Utah,140,Decaf
+2012-12-01T00:00:00,Small Market,Central,Tea,Earl Grey,-3,131,Wisconsin,100,Regular
+2013-10-01T00:00:00,Major Market,Central,Tea,Lemon,-7,130,Colorado,90,Decaf
+2013-10-01T00:00:00,Major Market,Central,Tea,Mint,39,131,Colorado,90,Decaf
+2013-10-01T00:00:00,Major Market,South,Tea,Lemon,42,114,Texas,90,Decaf
+2013-10-01T00:00:00,Major Market,East,Tea,Darjeeling,52,100,Florida,100,Regular
+2013-10-01T00:00:00,Major Market,West,Tea,Green Tea,83,194,California,80,Regular
+2013-10-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,46,46,Iowa,60,Decaf
+2013-10-01T00:00:00,Small Market,East,Coffee,Decaf Espresso,31,118,Connecticut,90,Decaf
+2013-10-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,31,70,Oklahoma,90,Decaf
+2013-10-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,10,72,Nevada,90,Decaf
+2013-10-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,55,106,Utah,80,Decaf
+2013-10-01T00:00:00,Small Market,East,Coffee,Amaretto,49,128,New Hampshire,90,Regular
+2013-10-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,-10,116,New Hampshire,90,Regular
+2013-10-01T00:00:00,Small Market,South,Coffee,Caffe Latte,1,153,Louisiana,90,Regular
+2013-10-01T00:00:00,Small Market,West,Coffee,Caffe Latte,18,128,Oregon,100,Regular
+2013-10-01T00:00:00,Small Market,Central,Tea,Chamomile,-9,116,Missouri,80,Decaf
+2013-10-01T00:00:00,Small Market,Central,Tea,Lemon,67,126,Wisconsin,90,Decaf
+2013-10-01T00:00:00,Small Market,West,Tea,Chamomile,49,128,Utah,90,Decaf
+2013-10-01T00:00:00,Small Market,West,Tea,Lemon,70,127,Washington,90,Decaf
+2013-10-01T00:00:00,Small Market,East,Tea,Darjeeling,53,106,Connecticut,100,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Earl Grey,95,218,Oregon,90,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Green Tea,113,232,Oregon,100,Regular
+2013-11-01T00:00:00,Major Market,South,Coffee,Decaf Irish Cream,39,98,Texas,100,Decaf
+2013-11-01T00:00:00,Major Market,South,Coffee,Decaf Espresso,71,131,Texas,90,Decaf
+2013-11-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-12,128,Massachusetts,110,Regular
+2013-11-01T00:00:00,Major Market,East,Tea,Mint,65,175,Florida,110,Decaf
+2013-11-01T00:00:00,Major Market,South,Tea,Lemon,46,121,Texas,100,Decaf
+2013-11-01T00:00:00,Major Market,Central,Tea,Darjeeling,22,132,Colorado,100,Regular
+2013-11-01T00:00:00,Major Market,Central,Tea,Darjeeling,71,131,Illinois,100,Regular
+2013-11-01T00:00:00,Major Market,Central,Tea,Earl Grey,43,133,Colorado,100,Regular
+2013-11-01T00:00:00,Major Market,East,Tea,Darjeeling,46,94,Massachusetts,90,Regular
+2013-11-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,40,86,Missouri,100,Decaf
+2013-11-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,42,83,Louisiana,90,Decaf
+2013-11-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,45,94,Oklahoma,100,Decaf
+2013-11-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,50,128,Louisiana,90,Decaf
+2013-11-01T00:00:00,Small Market,Central,Coffee,Amaretto,21,129,Wisconsin,110,Regular
+2013-11-01T00:00:00,Small Market,East,Coffee,Amaretto,45,120,New Hampshire,100,Regular
+2013-11-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,-12,113,New Hampshire,100,Regular
+2013-11-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,73,150,Louisiana,100,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,19,129,Washington,110,Regular
+2013-11-01T00:00:00,Small Market,South,Tea,Chamomile,19,129,Oklahoma,110,Decaf
+2013-11-01T00:00:00,Small Market,West,Tea,Chamomile,45,120,Utah,100,Decaf
+2013-11-01T00:00:00,Small Market,West,Tea,Lemon,30,116,Utah,100,Decaf
+2013-11-01T00:00:00,Small Market,West,Tea,Lemon,65,123,Washington,100,Decaf
+2013-11-01T00:00:00,Small Market,East,Tea,Green Tea,49,96,Connecticut,90,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Green Tea,1,157,Washington,100,Regular
+2013-12-01T00:00:00,Major Market,South,Coffee,Decaf Irish Cream,45,106,Texas,110,Decaf
+2013-12-01T00:00:00,Major Market,South,Coffee,Decaf Espresso,77,142,Texas,100,Decaf
+2013-12-01T00:00:00,Major Market,Central,Tea,Lemon,-9,119,Colorado,100,Decaf
+2013-12-01T00:00:00,Major Market,Central,Tea,Mint,43,135,Colorado,110,Decaf
+2013-12-01T00:00:00,Major Market,East,Tea,Lemon,34,155,Florida,100,Decaf
+2013-12-01T00:00:00,Major Market,East,Tea,Mint,74,188,Florida,120,Decaf
+2013-12-01T00:00:00,Major Market,South,Tea,Chamomile,42,135,Texas,110,Decaf
+2013-12-01T00:00:00,Major Market,South,Tea,Lemon,36,108,Texas,90,Decaf
+2013-12-01T00:00:00,Major Market,West,Tea,Earl Grey,79,142,California,90,Regular
+2013-12-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,40,82,Missouri,90,Decaf
+2013-12-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,46,91,Louisiana,100,Decaf
+2013-12-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,42,87,Oklahoma,90,Decaf
+2013-12-01T00:00:00,Small Market,South,Coffee,Caffe Latte,-4,140,Louisiana,100,Regular
+2013-12-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,-7,126,New Mexico,90,Regular
+2013-12-01T00:00:00,Small Market,Central,Tea,Chamomile,-7,126,Missouri,100,Decaf
+2013-12-01T00:00:00,Small Market,Central,Tea,Chamomile,45,114,Wisconsin,90,Decaf
+2013-12-01T00:00:00,Small Market,Central,Tea,Lemon,24,171,Missouri,140,Decaf
+2013-12-01T00:00:00,Small Market,East,Tea,Lemon,40,163,Connecticut,110,Decaf
+2013-12-01T00:00:00,Small Market,East,Tea,Mint,53,148,Connecticut,100,Decaf
+2013-12-01T00:00:00,Small Market,West,Tea,Mint,25,171,Utah,140,Decaf
+2013-12-01T00:00:00,Small Market,Central,Tea,Earl Grey,-4,140,Wisconsin,100,Regular
+2012-10-01T00:00:00,Major Market,East,Tea,Mint,48,174,Florida,90,Decaf
+2012-10-01T00:00:00,Major Market,Central,Tea,Darjeeling,13,120,Colorado,80,Regular
+2012-10-01T00:00:00,Major Market,Central,Tea,Earl Grey,27,118,Colorado,80,Regular
+2012-10-01T00:00:00,Major Market,East,Tea,Darjeeling,20,66,Massachusetts,70,Regular
+2012-10-01T00:00:00,Major Market,West,Tea,Earl Grey,79,187,California,80,Regular
+2012-10-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,10,51,Wisconsin,70,Decaf
+2012-10-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,18,58,Iowa,70,Regular
+2012-10-01T00:00:00,Small Market,East,Tea,Lemon,34,177,Connecticut,90,Decaf
+2012-10-01T00:00:00,Small Market,East,Tea,Mint,35,142,Connecticut,80,Decaf
+2012-10-01T00:00:00,Small Market,Central,Tea,Darjeeling,30,113,Wisconsin,70,Regular
+2012-10-01T00:00:00,Small Market,Central,Tea,Earl Grey,0,144,Wisconsin,90,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Darjeeling,57,159,Washington,70,Regular
+2012-11-01T00:00:00,Major Market,Central,Tea,Lemon,27,92,Illinois,80,Decaf
+2012-11-01T00:00:00,Major Market,Central,Tea,Lemon,30,88,Ohio,80,Decaf
+2012-11-01T00:00:00,Major Market,East,Tea,Lemon,15,124,Massachusetts,90,Decaf
+2012-11-01T00:00:00,Major Market,West,Tea,Mint,27,92,California,80,Decaf
+2012-11-01T00:00:00,Major Market,East,Tea,Darjeeling,23,70,Florida,70,Regular
+2012-11-01T00:00:00,Major Market,East,Tea,Green Tea,28,78,Florida,80,Regular
+2012-11-01T00:00:00,Major Market,East,Tea,Green Tea,29,80,Massachusetts,80,Regular
+2012-11-01T00:00:00,Major Market,West,Tea,Earl Grey,47,123,California,80,Regular
+2012-11-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,31,43,Iowa,50,Decaf
+2012-11-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,-8,122,New Mexico,140,Decaf
+2012-11-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,16,56,Iowa,70,Regular
+2012-11-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,-7,106,New Mexico,80,Regular
+2012-11-01T00:00:00,Small Market,Central,Tea,Chamomile,-8,106,Missouri,90,Decaf
+2012-11-01T00:00:00,Small Market,Central,Tea,Lemon,27,78,Wisconsin,70,Decaf
+2012-11-01T00:00:00,Small Market,East,Tea,Mint,38,150,Connecticut,100,Decaf
+2012-11-01T00:00:00,Small Market,Central,Tea,Darjeeling,33,120,Wisconsin,90,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Earl Grey,34,120,Washington,80,Regular
+2012-12-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-20,99,Massachusetts,90,Regular
+2012-12-01T00:00:00,Major Market,Central,Tea,Lemon,29,99,Illinois,90,Decaf
+2012-12-01T00:00:00,Major Market,West,Tea,Mint,29,99,California,90,Decaf
+2012-12-01T00:00:00,Major Market,Central,Tea,Darjeeling,6,103,Colorado,80,Regular
+2012-12-01T00:00:00,Major Market,Central,Tea,Earl Grey,26,116,Colorado,90,Regular
+2012-12-01T00:00:00,Major Market,East,Tea,Darjeeling,29,82,Massachusetts,80,Regular
+2012-12-01T00:00:00,Major Market,East,Tea,Green Tea,30,85,Florida,80,Regular
+2012-12-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,32,43,Iowa,50,Decaf
+2012-12-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,27,106,Louisiana,80,Decaf
+2012-12-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,8,69,Nevada,80,Decaf
+2012-12-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,17,58,Iowa,70,Regular
+2012-12-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,31,107,Louisiana,80,Regular
+2012-12-01T00:00:00,Small Market,West,Coffee,Caffe Latte,6,103,Oregon,90,Regular
+2012-12-01T00:00:00,Small Market,Central,Tea,Darjeeling,28,106,Wisconsin,80,Regular
+2012-12-01T00:00:00,Small Market,East,Tea,Green Tea,28,82,Connecticut,80,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Darjeeling,-4,118,Utah,80,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Green Tea,-3,131,Washington,90,Regular
+2013-10-01T00:00:00,Major Market,East,Tea,Mint,71,185,Florida,90,Decaf
+2013-10-01T00:00:00,Major Market,Central,Tea,Darjeeling,19,128,Colorado,80,Regular
+2013-10-01T00:00:00,Major Market,Central,Tea,Earl Grey,40,126,Colorado,80,Regular
+2013-10-01T00:00:00,Major Market,East,Tea,Darjeeling,30,70,Massachusetts,70,Regular
+2013-10-01T00:00:00,Major Market,West,Tea,Earl Grey,117,199,California,80,Regular
+2013-10-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,15,54,Wisconsin,70,Decaf
+2013-10-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,27,62,Iowa,70,Regular
+2013-10-01T00:00:00,Small Market,East,Tea,Lemon,50,189,Connecticut,90,Decaf
+2013-10-01T00:00:00,Small Market,East,Tea,Mint,52,151,Connecticut,80,Decaf
+2013-10-01T00:00:00,Small Market,Central,Tea,Darjeeling,45,120,Wisconsin,70,Regular
+2013-10-01T00:00:00,Small Market,Central,Tea,Earl Grey,0,153,Wisconsin,90,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Darjeeling,85,169,Washington,70,Regular
+2013-11-01T00:00:00,Major Market,Central,Tea,Lemon,40,98,Illinois,80,Decaf
+2013-11-01T00:00:00,Major Market,Central,Tea,Lemon,45,94,Ohio,80,Decaf
+2013-11-01T00:00:00,Major Market,East,Tea,Lemon,22,132,Massachusetts,90,Decaf
+2013-11-01T00:00:00,Major Market,West,Tea,Mint,40,98,California,80,Decaf
+2013-11-01T00:00:00,Major Market,East,Tea,Darjeeling,34,75,Florida,70,Regular
+2013-11-01T00:00:00,Major Market,East,Tea,Green Tea,42,83,Florida,80,Regular
+2013-11-01T00:00:00,Major Market,East,Tea,Green Tea,43,85,Massachusetts,80,Regular
+2013-11-01T00:00:00,Major Market,West,Tea,Earl Grey,70,131,California,80,Regular
+2013-11-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,46,46,Iowa,50,Decaf
+2013-11-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,-12,130,New Mexico,140,Decaf
+2013-11-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,24,60,Iowa,70,Regular
+2013-11-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,-10,113,New Mexico,80,Regular
+2013-11-01T00:00:00,Small Market,Central,Tea,Chamomile,-12,113,Missouri,90,Decaf
+2013-11-01T00:00:00,Small Market,Central,Tea,Lemon,40,83,Wisconsin,70,Decaf
+2013-11-01T00:00:00,Small Market,East,Tea,Mint,56,160,Connecticut,100,Decaf
+2013-11-01T00:00:00,Small Market,Central,Tea,Darjeeling,49,128,Wisconsin,90,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Earl Grey,50,128,Washington,80,Regular
+2013-12-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-30,106,Massachusetts,90,Regular
+2013-12-01T00:00:00,Major Market,Central,Tea,Lemon,43,106,Illinois,90,Decaf
+2013-12-01T00:00:00,Major Market,West,Tea,Mint,43,106,California,90,Decaf
+2013-12-01T00:00:00,Major Market,Central,Tea,Darjeeling,9,110,Colorado,80,Regular
+2013-12-01T00:00:00,Major Market,Central,Tea,Earl Grey,39,124,Colorado,90,Regular
+2013-12-01T00:00:00,Major Market,East,Tea,Darjeeling,43,87,Massachusetts,80,Regular
+2013-12-01T00:00:00,Major Market,East,Tea,Green Tea,45,91,Florida,80,Regular
+2013-12-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,47,46,Iowa,50,Decaf
+2013-12-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,40,113,Louisiana,80,Decaf
+2013-12-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,12,74,Nevada,80,Decaf
+2013-12-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,25,62,Iowa,70,Regular
+2013-12-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,46,114,Louisiana,80,Regular
+2013-12-01T00:00:00,Small Market,West,Coffee,Caffe Latte,9,110,Oregon,90,Regular
+2013-12-01T00:00:00,Small Market,Central,Tea,Darjeeling,42,113,Wisconsin,80,Regular
+2013-12-01T00:00:00,Small Market,East,Tea,Green Tea,42,87,Connecticut,80,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Darjeeling,-6,126,Utah,80,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Green Tea,-4,140,Washington,90,Regular
+2012-10-01T00:00:00,Major Market,Central,Tea,Lemon,27,90,Illinois,60,Decaf
+2012-10-01T00:00:00,Major Market,West,Tea,Mint,26,90,California,60,Decaf
+2012-10-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,-26,109,New Mexico,150,Decaf
+2012-10-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,30,113,Louisiana,60,Decaf
+2012-10-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,-6,109,New Mexico,60,Regular
+2012-10-01T00:00:00,Small Market,West,Coffee,Caffe Latte,28,79,Utah,60,Regular
+2012-10-01T00:00:00,Small Market,South,Tea,Lemon,6,68,New Mexico,50,Decaf
+2012-10-01T00:00:00,Small Market,Central,Tea,Darjeeling,13,92,Missouri,60,Regular
+2012-10-01T00:00:00,Small Market,East,Tea,Green Tea,18,60,Connecticut,60,Regular
+2012-10-01T00:00:00,Small Market,East,Tea,Green Tea,32,43,New Hampshire,40,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Darjeeling,-6,109,Utah,50,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Green Tea,0,144,Washington,60,Regular
+2012-11-01T00:00:00,Major Market,Central,Tea,Chamomile,29,80,Ohio,70,Decaf
+2012-11-01T00:00:00,Major Market,East,Tea,Lemon,13,121,Florida,80,Decaf
+2012-11-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,11,52,Wisconsin,60,Decaf
+2012-11-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,8,82,New Mexico,60,Decaf
+2012-11-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,5,64,Nevada,70,Decaf
+2012-11-01T00:00:00,Small Market,East,Coffee,Regular Espresso,-3,76,New Hampshire,70,Regular
+2012-11-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,29,80,Oklahoma,60,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Caffe Latte,31,43,Nevada,40,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Caffe Latte,27,81,Utah,70,Regular
+2012-11-01T00:00:00,Small Market,Central,Tea,Lemon,-9,122,Missouri,110,Decaf
+2012-11-01T00:00:00,Small Market,West,Tea,Mint,-8,122,Utah,110,Decaf
+2012-11-01T00:00:00,Small Market,Central,Tea,Darjeeling,9,82,Missouri,60,Regular
+2012-11-01T00:00:00,Small Market,Central,Tea,Earl Grey,-3,76,Missouri,60,Regular
+2012-11-01T00:00:00,Small Market,Central,Tea,Green Tea,-4,74,Missouri,60,Regular
+2012-11-01T00:00:00,Small Market,East,Tea,Green Tea,32,43,New Hampshire,40,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Darjeeling,-7,106,Utah,70,Regular
+2012-12-01T00:00:00,Major Market,Central,Tea,Chamomile,25,73,Ohio,60,Decaf
+2012-12-01T00:00:00,Major Market,Central,Tea,Lemon,29,82,Ohio,70,Decaf
+2012-12-01T00:00:00,Major Market,East,Tea,Lemon,7,103,Massachusetts,70,Decaf
+2012-12-01T00:00:00,Major Market,East,Tea,Darjeeling,26,75,Florida,70,Regular
+2012-12-01T00:00:00,Major Market,East,Tea,Green Tea,25,73,Massachusetts,70,Regular
+2012-12-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,13,56,Wisconsin,70,Decaf
+2012-12-01T00:00:00,Small Market,West,Coffee,Caffe Latte,31,43,Nevada,40,Regular
+2012-12-01T00:00:00,Small Market,West,Coffee,Caffe Latte,26,77,Utah,70,Regular
+2012-12-01T00:00:00,Small Market,Central,Tea,Lemon,30,85,Wisconsin,70,Decaf
+2012-12-01T00:00:00,Small Market,East,Tea,Lemon,2,88,New Hampshire,60,Decaf
+2012-12-01T00:00:00,Small Market,South,Tea,Lemon,7,69,New Mexico,60,Decaf
+2012-12-01T00:00:00,Small Market,Central,Tea,Darjeeling,11,89,Missouri,70,Regular
+2012-12-01T00:00:00,Small Market,Central,Tea,Green Tea,2,88,Missouri,70,Regular
+2012-12-01T00:00:00,Small Market,East,Tea,Green Tea,32,43,New Hampshire,40,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Darjeeling,30,107,Washington,70,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Earl Grey,12,89,Utah,60,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Earl Grey,28,106,Washington,70,Regular
+2013-10-01T00:00:00,Major Market,Central,Tea,Lemon,40,96,Illinois,60,Decaf
+2013-10-01T00:00:00,Major Market,West,Tea,Mint,39,96,California,60,Decaf
+2013-10-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,-39,116,New Mexico,150,Decaf
+2013-10-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,45,120,Louisiana,60,Decaf
+2013-10-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,-9,116,New Mexico,60,Regular
+2013-10-01T00:00:00,Small Market,West,Coffee,Caffe Latte,42,84,Utah,60,Regular
+2013-10-01T00:00:00,Small Market,South,Tea,Lemon,9,72,New Mexico,50,Decaf
+2013-10-01T00:00:00,Small Market,Central,Tea,Darjeeling,19,98,Missouri,60,Regular
+2013-10-01T00:00:00,Small Market,East,Tea,Green Tea,27,64,Connecticut,60,Regular
+2013-10-01T00:00:00,Small Market,East,Tea,Green Tea,47,46,New Hampshire,40,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Darjeeling,-9,116,Utah,50,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Green Tea,0,153,Washington,60,Regular
+2013-11-01T00:00:00,Major Market,Central,Tea,Chamomile,43,85,Ohio,70,Decaf
+2013-11-01T00:00:00,Major Market,East,Tea,Lemon,19,129,Florida,80,Decaf
+2013-11-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,16,55,Wisconsin,60,Decaf
+2013-11-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,12,87,New Mexico,60,Decaf
+2013-11-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,7,68,Nevada,70,Decaf
+2013-11-01T00:00:00,Small Market,East,Coffee,Regular Espresso,-4,81,New Hampshire,70,Regular
+2013-11-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,43,85,Oklahoma,60,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Caffe Latte,46,46,Nevada,40,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Caffe Latte,40,86,Utah,70,Regular
+2013-11-01T00:00:00,Small Market,Central,Tea,Lemon,-13,130,Missouri,110,Decaf
+2013-11-01T00:00:00,Small Market,West,Tea,Mint,-12,130,Utah,110,Decaf
+2013-11-01T00:00:00,Small Market,Central,Tea,Darjeeling,13,87,Missouri,60,Regular
+2013-11-01T00:00:00,Small Market,Central,Tea,Earl Grey,-4,81,Missouri,60,Regular
+2013-11-01T00:00:00,Small Market,Central,Tea,Green Tea,-6,79,Missouri,60,Regular
+2013-11-01T00:00:00,Small Market,East,Tea,Green Tea,47,46,New Hampshire,40,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Darjeeling,-10,113,Utah,70,Regular
+2013-12-01T00:00:00,Major Market,Central,Tea,Chamomile,37,78,Ohio,60,Decaf
+2013-12-01T00:00:00,Major Market,Central,Tea,Lemon,43,87,Ohio,70,Decaf
+2013-12-01T00:00:00,Major Market,East,Tea,Lemon,10,110,Massachusetts,70,Decaf
+2013-12-01T00:00:00,Major Market,East,Tea,Darjeeling,39,80,Florida,70,Regular
+2013-12-01T00:00:00,Major Market,East,Tea,Green Tea,37,78,Massachusetts,70,Regular
+2013-12-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,19,60,Wisconsin,70,Decaf
+2013-12-01T00:00:00,Small Market,West,Coffee,Caffe Latte,46,46,Nevada,40,Regular
+2013-12-01T00:00:00,Small Market,West,Coffee,Caffe Latte,39,82,Utah,70,Regular
+2013-12-01T00:00:00,Small Market,Central,Tea,Lemon,45,91,Wisconsin,70,Decaf
+2013-12-01T00:00:00,Small Market,East,Tea,Lemon,3,94,New Hampshire,60,Decaf
+2013-12-01T00:00:00,Small Market,South,Tea,Lemon,10,74,New Mexico,60,Decaf
+2013-12-01T00:00:00,Small Market,Central,Tea,Darjeeling,16,95,Missouri,70,Regular
+2013-12-01T00:00:00,Small Market,Central,Tea,Green Tea,3,94,Missouri,70,Regular
+2013-12-01T00:00:00,Small Market,East,Tea,Green Tea,47,46,New Hampshire,40,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Darjeeling,45,114,Washington,70,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Earl Grey,18,95,Utah,60,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Earl Grey,42,113,Washington,70,Regular
+2012-10-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,-5,122,Ohio,110,Decaf
+2012-10-01T00:00:00,Major Market,Central,Coffee,Amaretto,26,123,Ohio,110,Regular
+2012-10-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-11,116,Massachusetts,100,Regular
+2012-10-01T00:00:00,Major Market,South,Coffee,Caffe Latte,55,182,Texas,110,Regular
+2012-10-01T00:00:00,Major Market,East,Tea,Green Tea,46,118,Florida,120,Regular
+2012-10-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,58,159,Louisiana,100,Regular
+2012-10-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,27,123,Oregon,100,Regular
+2012-10-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,16,126,Washington,110,Regular
+2012-10-01T00:00:00,Small Market,South,Tea,Chamomile,16,126,Oklahoma,110,Decaf
+2012-10-01T00:00:00,Small Market,West,Tea,Lemon,23,114,Utah,90,Decaf
+2012-11-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,-3,125,Ohio,120,Decaf
+2012-11-01T00:00:00,Major Market,Central,Tea,Lemon,-4,125,Colorado,110,Decaf
+2012-11-01T00:00:00,Major Market,Central,Tea,Mint,32,138,Colorado,120,Decaf
+2012-11-01T00:00:00,Major Market,South,Tea,Chamomile,32,138,Texas,120,Decaf
+2012-11-01T00:00:00,Major Market,East,Tea,Green Tea,47,123,New York,120,Regular
+2012-11-01T00:00:00,Small Market,East,Coffee,Decaf Espresso,26,124,Connecticut,120,Decaf
+2012-11-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,52,132,Utah,120,Decaf
+2012-11-01T00:00:00,Small Market,South,Coffee,Caffe Latte,1,147,Louisiana,110,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Caffe Latte,16,124,Oregon,120,Regular
+2012-11-01T00:00:00,Small Market,East,Tea,Lemon,38,184,Connecticut,130,Decaf
+2012-11-01T00:00:00,Small Market,Central,Tea,Earl Grey,2,147,Wisconsin,120,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Darjeeling,49,141,Washington,100,Regular
+2012-12-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,-6,112,Ohio,110,Decaf
+2012-12-01T00:00:00,Major Market,Central,Coffee,Amaretto,29,127,Ohio,120,Regular
+2012-12-01T00:00:00,Major Market,South,Coffee,Caffe Latte,47,168,Texas,120,Regular
+2012-12-01T00:00:00,Major Market,Central,Tea,Darjeeling,53,133,Illinois,110,Regular
+2012-12-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,36,139,Missouri,130,Decaf
+2012-12-01T00:00:00,Small Market,East,Coffee,Decaf Espresso,21,114,Connecticut,110,Decaf
+2012-12-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,47,123,Utah,110,Decaf
+2012-12-01T00:00:00,Small Market,East,Coffee,Amaretto,37,127,New Hampshire,110,Regular
+2012-12-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,-2,131,Connecticut,120,Regular
+2012-12-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,-4,118,New Hampshire,110,Regular
+2012-12-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,28,127,Oregon,120,Regular
+2012-12-01T00:00:00,Small Market,South,Tea,Chamomile,22,145,Oklahoma,130,Decaf
+2012-12-01T00:00:00,Small Market,West,Tea,Chamomile,36,127,Utah,110,Decaf
+2012-12-01T00:00:00,Small Market,West,Tea,Lemon,28,122,Utah,110,Decaf
+2012-12-01T00:00:00,Small Market,West,Tea,Lemon,46,120,Washington,110,Decaf
+2012-12-01T00:00:00,Small Market,East,Tea,Darjeeling,47,123,Connecticut,120,Regular
+2013-10-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,-7,130,Ohio,110,Decaf
+2013-10-01T00:00:00,Major Market,Central,Coffee,Amaretto,39,131,Ohio,110,Regular
+2013-10-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-16,124,Massachusetts,100,Regular
+2013-10-01T00:00:00,Major Market,South,Coffee,Caffe Latte,82,194,Texas,110,Regular
+2013-10-01T00:00:00,Major Market,East,Tea,Green Tea,68,126,Florida,120,Regular
+2013-10-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,86,169,Louisiana,100,Regular
+2013-10-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,40,131,Oregon,100,Regular
+2013-10-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,24,134,Washington,110,Regular
+2013-10-01T00:00:00,Small Market,South,Tea,Chamomile,24,134,Oklahoma,110,Decaf
+2013-10-01T00:00:00,Small Market,West,Tea,Lemon,34,121,Utah,90,Decaf
+2013-11-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,-4,133,Ohio,120,Decaf
+2013-11-01T00:00:00,Major Market,Central,Tea,Lemon,-6,133,Colorado,110,Decaf
+2013-11-01T00:00:00,Major Market,Central,Tea,Mint,47,147,Colorado,120,Decaf
+2013-11-01T00:00:00,Major Market,South,Tea,Chamomile,47,147,Texas,120,Decaf
+2013-11-01T00:00:00,Major Market,East,Tea,Green Tea,70,131,New York,120,Regular
+2013-11-01T00:00:00,Small Market,East,Coffee,Decaf Espresso,39,132,Connecticut,120,Decaf
+2013-11-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,77,141,Utah,120,Decaf
+2013-11-01T00:00:00,Small Market,South,Coffee,Caffe Latte,1,157,Louisiana,110,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Caffe Latte,24,132,Oregon,120,Regular
+2013-11-01T00:00:00,Small Market,East,Tea,Lemon,56,196,Connecticut,130,Decaf
+2013-11-01T00:00:00,Small Market,Central,Tea,Earl Grey,3,157,Wisconsin,120,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Darjeeling,73,150,Washington,100,Regular
+2013-12-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,-9,119,Ohio,110,Decaf
+2013-12-01T00:00:00,Major Market,Central,Coffee,Amaretto,43,135,Ohio,120,Regular
+2013-12-01T00:00:00,Major Market,South,Coffee,Caffe Latte,70,179,Texas,120,Regular
+2013-12-01T00:00:00,Major Market,Central,Tea,Darjeeling,79,142,Illinois,110,Regular
+2013-12-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,53,148,Missouri,130,Decaf
+2013-12-01T00:00:00,Small Market,East,Coffee,Decaf Espresso,31,121,Connecticut,110,Decaf
+2013-12-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,70,131,Utah,110,Decaf
+2013-12-01T00:00:00,Small Market,East,Coffee,Amaretto,55,135,New Hampshire,110,Regular
+2013-12-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,-3,140,Connecticut,120,Regular
+2013-12-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,-6,126,New Hampshire,110,Regular
+2013-12-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,42,135,Oregon,120,Regular
+2013-12-01T00:00:00,Small Market,South,Tea,Chamomile,33,155,Oklahoma,130,Decaf
+2013-12-01T00:00:00,Small Market,West,Tea,Chamomile,53,135,Utah,110,Decaf
+2013-12-01T00:00:00,Small Market,West,Tea,Lemon,42,130,Utah,110,Decaf
+2013-12-01T00:00:00,Small Market,West,Tea,Lemon,68,128,Washington,110,Decaf
+2013-12-01T00:00:00,Small Market,East,Tea,Darjeeling,70,131,Connecticut,120,Regular
+2012-10-01T00:00:00,Major Market,Central,Tea,Chamomile,16,53,Ohio,30,Decaf
+2012-10-01T00:00:00,Major Market,Central,Tea,Lemon,20,66,Ohio,40,Decaf
+2012-10-01T00:00:00,Major Market,East,Tea,Lemon,16,126,Florida,60,Decaf
+2012-10-01T00:00:00,Major Market,East,Tea,Lemon,13,120,Massachusetts,60,Decaf
+2012-10-01T00:00:00,Major Market,East,Tea,Green Tea,15,53,Massachusetts,50,Regular
+2012-10-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,14,92,New Mexico,50,Decaf
+2012-10-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,17,58,Nevada,40,Decaf
+2012-10-01T00:00:00,Small Market,Central,Coffee,Amaretto,15,52,Iowa,40,Regular
+2012-10-01T00:00:00,Small Market,East,Coffee,Regular Espresso,-12,56,New Hampshire,40,Regular
+2012-10-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,15,53,Oklahoma,30,Regular
+2012-10-01T00:00:00,Small Market,West,Coffee,Caffe Latte,32,43,Nevada,30,Regular
+2012-10-01T00:00:00,Small Market,East,Tea,Lemon,-3,77,New Hampshire,40,Decaf
+2012-10-01T00:00:00,Small Market,South,Tea,Chamomile,14,52,New Mexico,40,Decaf
+2012-10-01T00:00:00,Small Market,West,Tea,Chamomile,17,61,Oregon,40,Decaf
+2012-10-01T00:00:00,Small Market,Central,Tea,Green Tea,-3,77,Missouri,40,Regular
+2012-10-01T00:00:00,Small Market,East,Tea,Darjeeling,14,52,New Hampshire,50,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Earl Grey,14,92,Utah,40,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Earl Grey,31,113,Washington,50,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,17,56,Nevada,50,Decaf
+2012-11-01T00:00:00,Small Market,South,Coffee,Caffe Latte,-4,76,New Mexico,50,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Caffe Latte,11,52,Washington,50,Regular
+2012-11-01T00:00:00,Small Market,East,Tea,Lemon,-4,74,New Hampshire,50,Decaf
+2012-11-01T00:00:00,Small Market,South,Tea,Lemon,5,64,New Mexico,50,Decaf
+2012-11-01T00:00:00,Small Market,West,Tea,Chamomile,19,63,Oregon,50,Decaf
+2012-11-01T00:00:00,Small Market,East,Tea,Darjeeling,8,39,New Hampshire,40,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Darjeeling,28,80,Oregon,50,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Earl Grey,9,82,Utah,50,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Green Tea,-3,76,Utah,50,Regular
+2012-12-01T00:00:00,Major Market,East,Tea,Chamomile,12,56,Florida,40,Decaf
+2012-12-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,12,89,New Mexico,60,Decaf
+2012-12-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,17,58,Nevada,50,Decaf
+2012-12-01T00:00:00,Small Market,Central,Coffee,Amaretto,10,41,Iowa,40,Regular
+2012-12-01T00:00:00,Small Market,East,Coffee,Regular Espresso,-16,45,New Hampshire,40,Regular
+2012-12-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,24,73,Oklahoma,50,Regular
+2012-12-01T00:00:00,Small Market,West,Coffee,Caffe Latte,13,56,Washington,50,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Chamomile,19,60,Oregon,50,Decaf
+2012-12-01T00:00:00,Small Market,East,Tea,Darjeeling,10,41,New Hampshire,40,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Darjeeling,25,73,Oregon,50,Regular
+2013-10-01T00:00:00,Major Market,Central,Tea,Chamomile,24,56,Ohio,30,Decaf
+2013-10-01T00:00:00,Major Market,Central,Tea,Lemon,30,70,Ohio,40,Decaf
+2013-10-01T00:00:00,Major Market,East,Tea,Lemon,24,134,Florida,60,Decaf
+2013-10-01T00:00:00,Major Market,East,Tea,Lemon,19,128,Massachusetts,60,Decaf
+2013-10-01T00:00:00,Major Market,East,Tea,Green Tea,22,56,Massachusetts,50,Regular
+2013-10-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,21,98,New Mexico,50,Decaf
+2013-10-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,25,62,Nevada,40,Decaf
+2013-10-01T00:00:00,Small Market,Central,Coffee,Amaretto,22,55,Iowa,40,Regular
+2013-10-01T00:00:00,Small Market,East,Coffee,Regular Espresso,-18,60,New Hampshire,40,Regular
+2013-10-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,22,56,Oklahoma,30,Regular
+2013-10-01T00:00:00,Small Market,West,Coffee,Caffe Latte,47,46,Nevada,30,Regular
+2013-10-01T00:00:00,Small Market,East,Tea,Lemon,-4,82,New Hampshire,40,Decaf
+2013-10-01T00:00:00,Small Market,South,Tea,Chamomile,21,55,New Mexico,40,Decaf
+2013-10-01T00:00:00,Small Market,West,Tea,Chamomile,25,65,Oregon,40,Decaf
+2013-10-01T00:00:00,Small Market,Central,Tea,Green Tea,-4,82,Missouri,40,Regular
+2013-10-01T00:00:00,Small Market,East,Tea,Darjeeling,21,55,New Hampshire,50,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Earl Grey,21,98,Utah,40,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Earl Grey,46,120,Washington,50,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,25,60,Nevada,50,Decaf
+2013-11-01T00:00:00,Small Market,South,Coffee,Caffe Latte,-6,81,New Mexico,50,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Caffe Latte,16,55,Washington,50,Regular
+2013-11-01T00:00:00,Small Market,East,Tea,Lemon,-6,79,New Hampshire,50,Decaf
+2013-11-01T00:00:00,Small Market,South,Tea,Lemon,7,68,New Mexico,50,Decaf
+2013-11-01T00:00:00,Small Market,West,Tea,Chamomile,28,67,Oregon,50,Decaf
+2013-11-01T00:00:00,Small Market,East,Tea,Darjeeling,12,42,New Hampshire,40,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Darjeeling,42,85,Oregon,50,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Earl Grey,13,87,Utah,50,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Green Tea,-4,81,Utah,50,Regular
+2013-12-01T00:00:00,Major Market,East,Tea,Chamomile,18,60,Florida,40,Decaf
+2013-12-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,18,95,New Mexico,60,Decaf
+2013-12-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,25,62,Nevada,50,Decaf
+2013-12-01T00:00:00,Small Market,Central,Coffee,Amaretto,15,44,Iowa,40,Regular
+2013-12-01T00:00:00,Small Market,East,Coffee,Regular Espresso,-24,48,New Hampshire,40,Regular
+2013-12-01T00:00:00,Small Market,South,Coffee,Caffe Mocha,36,78,Oklahoma,50,Regular
+2013-12-01T00:00:00,Small Market,West,Coffee,Caffe Latte,19,60,Washington,50,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Chamomile,28,64,Oregon,50,Decaf
+2013-12-01T00:00:00,Small Market,East,Tea,Darjeeling,15,44,New Hampshire,40,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Darjeeling,37,78,Oregon,50,Regular
+2012-10-01T00:00:00,Major Market,South,Coffee,Decaf Espresso,78,187,Texas,120,Decaf
+2012-10-01T00:00:00,Major Market,South,Tea,Chamomile,26,123,Texas,110,Decaf
+2012-10-01T00:00:00,Major Market,Central,Tea,Darjeeling,78,187,Illinois,130,Regular
+2012-10-01T00:00:00,Major Market,Central,Tea,Earl Grey,55,182,Illinois,130,Regular
+2012-10-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,35,142,Missouri,130,Decaf
+2012-10-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,28,79,Missouri,110,Decaf
+2012-10-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,65,205,Oklahoma,130,Decaf
+2012-10-01T00:00:00,Small Market,Central,Coffee,Amaretto,15,126,Wisconsin,120,Regular
+2012-10-01T00:00:00,Small Market,South,Coffee,Caffe Latte,76,218,Oklahoma,130,Regular
+2012-10-01T00:00:00,Small Market,Central,Tea,Chamomile,57,159,Wisconsin,120,Decaf
+2012-11-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,16,124,Ohio,150,Decaf
+2012-11-01T00:00:00,Major Market,Central,Coffee,Amaretto,33,138,Ohio,130,Regular
+2012-11-01T00:00:00,Major Market,West,Tea,Green Tea,59,189,California,130,Regular
+2012-11-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,38,150,Missouri,140,Decaf
+2012-11-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,32,114,Oregon,130,Decaf
+2012-11-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,45,164,Washington,150,Decaf
+2012-11-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,2,147,Connecticut,140,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Amaretto,-4,125,Oregon,140,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,33,138,Oregon,130,Regular
+2012-11-01T00:00:00,Small Market,Central,Tea,Chamomile,48,141,Wisconsin,130,Decaf
+2012-11-01T00:00:00,Small Market,East,Tea,Darjeeling,51,132,Connecticut,130,Regular
+2012-12-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,6,103,Ohio,130,Decaf
+2012-12-01T00:00:00,Major Market,Central,Tea,Earl Grey,47,168,Illinois,130,Regular
+2012-12-01T00:00:00,Major Market,East,Tea,Green Tea,52,133,New York,130,Regular
+2012-12-01T00:00:00,Major Market,West,Tea,Green Tea,47,168,California,120,Regular
+2012-12-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,25,101,Oregon,120,Decaf
+2012-12-01T00:00:00,Small Market,Central,Coffee,Amaretto,22,145,Wisconsin,140,Regular
+2012-12-01T00:00:00,Small Market,West,Coffee,Amaretto,-7,112,Oregon,130,Regular
+2012-12-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,23,145,Washington,140,Regular
+2012-12-01T00:00:00,Small Market,South,Tea,Lemon,26,153,Louisiana,140,Decaf
+2013-10-01T00:00:00,Major Market,South,Coffee,Decaf Espresso,116,199,Texas,120,Decaf
+2013-10-01T00:00:00,Major Market,South,Tea,Chamomile,39,131,Texas,110,Decaf
+2013-10-01T00:00:00,Major Market,Central,Tea,Darjeeling,116,199,Illinois,130,Regular
+2013-10-01T00:00:00,Major Market,Central,Tea,Earl Grey,82,194,Illinois,130,Regular
+2013-10-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,52,151,Missouri,130,Decaf
+2013-10-01T00:00:00,Small Market,Central,Coffee,Decaf Espresso,42,84,Missouri,110,Decaf
+2013-10-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,96,218,Oklahoma,130,Decaf
+2013-10-01T00:00:00,Small Market,Central,Coffee,Amaretto,22,134,Wisconsin,120,Regular
+2013-10-01T00:00:00,Small Market,South,Coffee,Caffe Latte,113,232,Oklahoma,130,Regular
+2013-10-01T00:00:00,Small Market,Central,Tea,Chamomile,85,169,Wisconsin,120,Decaf
+2013-11-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,24,132,Ohio,150,Decaf
+2013-11-01T00:00:00,Major Market,Central,Coffee,Amaretto,49,147,Ohio,130,Regular
+2013-11-01T00:00:00,Major Market,West,Tea,Green Tea,88,201,California,130,Regular
+2013-11-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,56,160,Missouri,140,Decaf
+2013-11-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,47,121,Oregon,130,Decaf
+2013-11-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,67,175,Washington,150,Decaf
+2013-11-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,3,157,Connecticut,140,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Amaretto,-6,133,Oregon,140,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,49,147,Oregon,130,Regular
+2013-11-01T00:00:00,Small Market,Central,Tea,Chamomile,71,150,Wisconsin,130,Decaf
+2013-11-01T00:00:00,Small Market,East,Tea,Darjeeling,76,141,Connecticut,130,Regular
+2013-12-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,9,110,Ohio,130,Decaf
+2013-12-01T00:00:00,Major Market,Central,Tea,Earl Grey,70,179,Illinois,130,Regular
+2013-12-01T00:00:00,Major Market,East,Tea,Green Tea,77,142,New York,130,Regular
+2013-12-01T00:00:00,Major Market,West,Tea,Green Tea,70,179,California,120,Regular
+2013-12-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,37,108,Oregon,120,Decaf
+2013-12-01T00:00:00,Small Market,Central,Coffee,Amaretto,33,155,Wisconsin,140,Regular
+2013-12-01T00:00:00,Small Market,West,Coffee,Amaretto,-10,119,Oregon,130,Regular
+2013-12-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,34,155,Washington,140,Regular
+2013-12-01T00:00:00,Small Market,South,Tea,Lemon,39,163,Louisiana,140,Decaf
+2012-10-01T00:00:00,Major Market,South,Coffee,Decaf Irish Cream,26,90,Texas,130,Decaf
+2012-10-01T00:00:00,Major Market,South,Coffee,Caffe Mocha,133,302,Texas,190,Regular
+2012-10-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,45,118,Louisiana,160,Decaf
+2012-10-01T00:00:00,Small Market,South,Coffee,Caffe Latte,-12,56,New Mexico,30,Regular
+2012-10-01T00:00:00,Small Market,South,Tea,Chamomile,87,236,Louisiana,210,Decaf
+2012-10-01T00:00:00,Small Market,South,Tea,Lemon,34,177,Louisiana,150,Decaf
+2012-10-01T00:00:00,Small Market,South,Tea,Lemon,17,230,Oklahoma,200,Decaf
+2012-11-01T00:00:00,Major Market,South,Coffee,Caffe Latte,59,189,Texas,140,Regular
+2012-11-01T00:00:00,Major Market,South,Coffee,Caffe Mocha,127,290,Texas,220,Regular
+2012-11-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,62,197,Oklahoma,150,Decaf
+2012-11-01T00:00:00,Small Market,South,Coffee,Caffe Latte,89,245,Oklahoma,180,Regular
+2012-11-01T00:00:00,Small Market,South,Tea,Chamomile,85,231,Louisiana,210,Decaf
+2012-11-01T00:00:00,Small Market,South,Tea,Chamomile,9,39,New Mexico,30,Decaf
+2012-11-01T00:00:00,Small Market,South,Tea,Lemon,38,184,Louisiana,170,Decaf
+2012-11-01T00:00:00,Small Market,South,Tea,Lemon,15,224,Oklahoma,200,Decaf
+2012-12-01T00:00:00,Major Market,South,Coffee,Caffe Mocha,133,302,Texas,230,Regular
+2012-12-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,16,160,New Mexico,190,Decaf
+2012-12-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,72,221,Oklahoma,170,Decaf
+2012-12-01T00:00:00,Small Market,South,Coffee,Caffe Latte,-15,45,New Mexico,30,Regular
+2012-12-01T00:00:00,Small Market,South,Coffee,Caffe Latte,121,320,Oklahoma,240,Regular
+2012-12-01T00:00:00,Small Market,South,Tea,Chamomile,77,214,Louisiana,190,Decaf
+2012-12-01T00:00:00,Small Market,South,Tea,Chamomile,9,41,New Mexico,30,Decaf
+2012-12-01T00:00:00,Small Market,South,Tea,Lemon,20,250,Oklahoma,230,Decaf
+2013-10-01T00:00:00,Major Market,South,Coffee,Decaf Irish Cream,39,96,Texas,130,Decaf
+2013-10-01T00:00:00,Major Market,South,Coffee,Caffe Mocha,197,322,Texas,190,Regular
+2013-10-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,67,126,Louisiana,160,Decaf
+2013-10-01T00:00:00,Small Market,South,Coffee,Caffe Latte,-18,60,New Mexico,30,Regular
+2013-10-01T00:00:00,Small Market,South,Tea,Chamomile,129,251,Louisiana,210,Decaf
+2013-10-01T00:00:00,Small Market,South,Tea,Lemon,50,189,Louisiana,150,Decaf
+2013-10-01T00:00:00,Small Market,South,Tea,Lemon,25,245,Oklahoma,200,Decaf
+2013-11-01T00:00:00,Major Market,South,Coffee,Caffe Latte,88,201,Texas,140,Regular
+2013-11-01T00:00:00,Major Market,South,Coffee,Caffe Mocha,188,309,Texas,220,Regular
+2013-11-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,92,210,Oklahoma,150,Decaf
+2013-11-01T00:00:00,Small Market,South,Coffee,Caffe Latte,132,261,Oklahoma,180,Regular
+2013-11-01T00:00:00,Small Market,South,Tea,Chamomile,126,246,Louisiana,210,Decaf
+2013-11-01T00:00:00,Small Market,South,Tea,Chamomile,13,42,New Mexico,30,Decaf
+2013-11-01T00:00:00,Small Market,South,Tea,Lemon,56,196,Louisiana,170,Decaf
+2013-11-01T00:00:00,Small Market,South,Tea,Lemon,22,239,Oklahoma,200,Decaf
+2013-12-01T00:00:00,Major Market,South,Coffee,Caffe Mocha,197,322,Texas,230,Regular
+2013-12-01T00:00:00,Small Market,South,Coffee,Decaf Irish Cream,24,171,New Mexico,190,Decaf
+2013-12-01T00:00:00,Small Market,South,Coffee,Decaf Espresso,107,236,Oklahoma,170,Decaf
+2013-12-01T00:00:00,Small Market,South,Coffee,Caffe Latte,-22,48,New Mexico,30,Regular
+2013-12-01T00:00:00,Small Market,South,Coffee,Caffe Latte,180,341,Oklahoma,240,Regular
+2013-12-01T00:00:00,Small Market,South,Tea,Chamomile,114,228,Louisiana,190,Decaf
+2013-12-01T00:00:00,Small Market,South,Tea,Chamomile,13,44,New Mexico,30,Decaf
+2013-12-01T00:00:00,Small Market,South,Tea,Lemon,30,266,Oklahoma,230,Decaf
+2012-10-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,1,144,Connecticut,130,Regular
+2013-10-01T00:00:00,Small Market,East,Coffee,Caffe Mocha,1,153,Connecticut,130,Regular
+2012-10-01T00:00:00,Major Market,East,Coffee,Decaf Irish Cream,76,218,Florida,180,Decaf
+2012-10-01T00:00:00,Major Market,East,Coffee,Decaf Espresso,60,202,Florida,180,Decaf
+2012-10-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,18,230,Florida,210,Regular
+2012-10-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-202,69,New York,50,Regular
+2012-10-01T00:00:00,Major Market,East,Coffee,Regular Espresso,92,322,Massachusetts,300,Regular
+2012-10-01T00:00:00,Major Market,East,Coffee,Regular Espresso,435,765,New York,720,Regular
+2012-10-01T00:00:00,Major Market,East,Tea,Chamomile,10,51,Florida,20,Decaf
+2012-10-01T00:00:00,Major Market,East,Tea,Lemon,129,513,New York,290,Decaf
+2012-10-01T00:00:00,Major Market,East,Tea,Mint,-170,164,New York,80,Decaf
+2012-10-01T00:00:00,Major Market,East,Tea,Darjeeling,115,265,New York,280,Regular
+2012-10-01T00:00:00,Major Market,East,Tea,Earl Grey,134,302,New York,320,Regular
+2012-10-01T00:00:00,Major Market,East,Tea,Green Tea,78,187,New York,200,Regular
+2012-11-01T00:00:00,Major Market,East,Coffee,Decaf Irish Cream,89,245,Florida,220,Decaf
+2012-11-01T00:00:00,Major Market,East,Coffee,Decaf Espresso,51,180,Florida,170,Decaf
+2012-11-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,15,224,Florida,210,Regular
+2012-11-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-202,61,New York,50,Regular
+2012-11-01T00:00:00,Major Market,East,Coffee,Regular Espresso,108,363,Massachusetts,350,Regular
+2012-11-01T00:00:00,Major Market,East,Coffee,Regular Espresso,381,675,New York,660,Regular
+2012-11-01T00:00:00,Major Market,East,Tea,Chamomile,11,52,Florida,30,Decaf
+2012-11-01T00:00:00,Major Market,East,Tea,Lemon,204,576,New York,420,Decaf
+2012-11-01T00:00:00,Major Market,East,Tea,Mint,-156,160,New York,110,Decaf
+2012-11-01T00:00:00,Major Market,East,Tea,Darjeeling,84,198,New York,200,Regular
+2012-11-01T00:00:00,Major Market,East,Tea,Earl Grey,127,290,New York,290,Regular
+2012-12-01T00:00:00,Major Market,East,Coffee,Decaf Irish Cream,122,320,Florida,280,Decaf
+2012-12-01T00:00:00,Major Market,East,Coffee,Decaf Espresso,58,195,Florida,190,Decaf
+2012-12-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,21,250,Florida,240,Regular
+2012-12-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-224,66,New York,60,Regular
+2012-12-01T00:00:00,Major Market,East,Coffee,Regular Espresso,87,306,Massachusetts,290,Regular
+2012-12-01T00:00:00,Major Market,East,Coffee,Regular Espresso,312,657,New York,640,Regular
+2012-12-01T00:00:00,Major Market,East,Tea,Lemon,309,747,New York,540,Decaf
+2012-12-01T00:00:00,Major Market,East,Tea,Mint,-189,148,New York,100,Decaf
+2012-12-01T00:00:00,Major Market,East,Tea,Darjeeling,89,210,New York,210,Regular
+2012-12-01T00:00:00,Major Market,East,Tea,Earl Grey,133,302,New York,310,Regular
+2013-10-01T00:00:00,Major Market,East,Coffee,Decaf Irish Cream,113,232,Florida,180,Decaf
+2013-10-01T00:00:00,Major Market,East,Coffee,Decaf Espresso,89,215,Florida,180,Decaf
+2013-10-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,27,245,Florida,210,Regular
+2013-10-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-300,74,New York,50,Regular
+2013-10-01T00:00:00,Major Market,East,Coffee,Regular Espresso,137,343,Massachusetts,300,Regular
+2013-10-01T00:00:00,Major Market,East,Coffee,Regular Espresso,646,815,New York,720,Regular
+2013-10-01T00:00:00,Major Market,East,Tea,Chamomile,15,54,Florida,20,Decaf
+2013-10-01T00:00:00,Major Market,East,Tea,Lemon,191,547,New York,290,Decaf
+2013-10-01T00:00:00,Major Market,East,Tea,Mint,-252,175,New York,80,Decaf
+2013-10-01T00:00:00,Major Market,East,Tea,Darjeeling,171,282,New York,280,Regular
+2013-10-01T00:00:00,Major Market,East,Tea,Earl Grey,199,322,New York,320,Regular
+2013-10-01T00:00:00,Major Market,East,Tea,Green Tea,116,199,New York,200,Regular
+2013-11-01T00:00:00,Major Market,East,Coffee,Decaf Irish Cream,132,261,Florida,220,Decaf
+2013-11-01T00:00:00,Major Market,East,Coffee,Decaf Espresso,76,192,Florida,170,Decaf
+2013-11-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,22,239,Florida,210,Regular
+2013-11-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-300,65,New York,50,Regular
+2013-11-01T00:00:00,Major Market,East,Coffee,Regular Espresso,160,387,Massachusetts,350,Regular
+2013-11-01T00:00:00,Major Market,East,Coffee,Regular Espresso,565,719,New York,660,Regular
+2013-11-01T00:00:00,Major Market,East,Tea,Chamomile,16,55,Florida,30,Decaf
+2013-11-01T00:00:00,Major Market,East,Tea,Lemon,303,614,New York,420,Decaf
+2013-11-01T00:00:00,Major Market,East,Tea,Mint,-232,171,New York,110,Decaf
+2013-11-01T00:00:00,Major Market,East,Tea,Darjeeling,125,211,New York,200,Regular
+2013-11-01T00:00:00,Major Market,East,Tea,Earl Grey,188,309,New York,290,Regular
+2013-12-01T00:00:00,Major Market,East,Coffee,Decaf Irish Cream,181,341,Florida,280,Decaf
+2013-12-01T00:00:00,Major Market,East,Coffee,Decaf Espresso,86,208,Florida,190,Decaf
+2013-12-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,31,266,Florida,240,Regular
+2013-12-01T00:00:00,Major Market,East,Coffee,Caffe Mocha,-332,70,New York,60,Regular
+2013-12-01T00:00:00,Major Market,East,Coffee,Regular Espresso,129,326,Massachusetts,290,Regular
+2013-12-01T00:00:00,Major Market,East,Coffee,Regular Espresso,463,700,New York,640,Regular
+2013-12-01T00:00:00,Major Market,East,Tea,Lemon,459,796,New York,540,Decaf
+2013-12-01T00:00:00,Major Market,East,Tea,Mint,-280,158,New York,100,Decaf
+2013-12-01T00:00:00,Major Market,East,Tea,Darjeeling,132,224,New York,210,Regular
+2013-12-01T00:00:00,Major Market,East,Tea,Earl Grey,197,322,New York,310,Regular
+2012-10-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,116,265,Colorado,260,Decaf
+2012-10-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,115,298,Illinois,300,Decaf
+2012-10-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,56,182,Colorado,260,Decaf
+2012-10-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,149,478,Illinois,710,Decaf
+2012-10-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,12,120,Ohio,170,Decaf
+2012-10-01T00:00:00,Major Market,Central,Coffee,Amaretto,133,302,Colorado,300,Regular
+2012-10-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,79,187,Colorado,280,Regular
+2012-10-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,224,598,Illinois,890,Regular
+2012-10-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,92,322,Ohio,470,Regular
+2012-10-01T00:00:00,Major Market,Central,Tea,Chamomile,92,322,Colorado,260,Decaf
+2012-10-01T00:00:00,Major Market,Central,Tea,Chamomile,133,302,Illinois,240,Decaf
+2012-10-01T00:00:00,Major Market,Central,Tea,Mint,116,265,Illinois,210,Decaf
+2012-10-01T00:00:00,Major Market,Central,Tea,Darjeeling,65,205,Ohio,140,Regular
+2012-10-01T00:00:00,Major Market,Central,Tea,Earl Grey,76,218,Ohio,150,Regular
+2012-10-01T00:00:00,Major Market,Central,Tea,Green Tea,74,205,Colorado,140,Regular
+2012-10-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,-2,23,Iowa,10,Decaf
+2012-10-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,61,202,Wisconsin,200,Decaf
+2012-10-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,36,99,Missouri,140,Regular
+2012-10-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,48,174,Wisconsin,250,Regular
+2012-10-01T00:00:00,Small Market,Central,Tea,Chamomile,224,598,Iowa,480,Decaf
+2012-10-01T00:00:00,Small Market,Central,Tea,Lemon,114,298,Iowa,240,Decaf
+2012-10-01T00:00:00,Small Market,Central,Tea,Lemon,-26,109,Missouri,80,Decaf
+2012-10-01T00:00:00,Small Market,Central,Tea,Darjeeling,149,478,Iowa,340,Regular
+2012-10-01T00:00:00,Small Market,Central,Tea,Earl Grey,183,567,Iowa,400,Regular
+2012-10-01T00:00:00,Small Market,Central,Tea,Earl Grey,-11,56,Missouri,30,Regular
+2012-11-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,84,198,Colorado,190,Decaf
+2012-11-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,106,278,Illinois,270,Decaf
+2012-11-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,58,189,Colorado,240,Decaf
+2012-11-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,129,423,Illinois,540,Decaf
+2012-11-01T00:00:00,Major Market,Central,Coffee,Amaretto,128,290,Colorado,280,Regular
+2012-11-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,48,123,Colorado,150,Regular
+2012-11-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,196,532,Illinois,680,Regular
+2012-11-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,107,363,Ohio,460,Regular
+2012-11-01T00:00:00,Major Market,Central,Tea,Chamomile,107,363,Colorado,330,Decaf
+2012-11-01T00:00:00,Major Market,Central,Tea,Chamomile,127,290,Illinois,260,Decaf
+2012-11-01T00:00:00,Major Market,Central,Tea,Mint,84,198,Illinois,180,Decaf
+2012-11-01T00:00:00,Major Market,Central,Tea,Darjeeling,62,197,Ohio,160,Regular
+2012-11-01T00:00:00,Major Market,Central,Tea,Earl Grey,59,189,Illinois,150,Regular
+2012-11-01T00:00:00,Major Market,Central,Tea,Earl Grey,89,245,Ohio,200,Regular
+2012-11-01T00:00:00,Major Market,Central,Tea,Green Tea,70,200,Colorado,160,Regular
+2012-11-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,-3,23,Iowa,20,Decaf
+2012-11-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,51,180,Wisconsin,170,Decaf
+2012-11-01T00:00:00,Small Market,Central,Coffee,Amaretto,8,39,Iowa,30,Regular
+2012-11-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,51,132,Missouri,160,Regular
+2012-11-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,45,164,Wisconsin,200,Regular
+2012-11-01T00:00:00,Small Market,Central,Tea,Chamomile,196,532,Iowa,490,Decaf
+2012-11-01T00:00:00,Small Market,Central,Tea,Lemon,107,278,Iowa,250,Decaf
+2012-11-01T00:00:00,Small Market,Central,Tea,Darjeeling,129,423,Iowa,350,Regular
+2012-11-01T00:00:00,Small Market,Central,Tea,Earl Grey,173,545,Iowa,450,Regular
+2012-12-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,88,210,Colorado,200,Decaf
+2012-12-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,122,312,Illinois,300,Decaf
+2012-12-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,47,168,Colorado,210,Decaf
+2012-12-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,157,501,Illinois,640,Decaf
+2012-12-01T00:00:00,Major Market,Central,Coffee,Amaretto,134,302,Colorado,290,Regular
+2012-12-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,53,133,Colorado,170,Regular
+2012-12-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,216,576,Illinois,730,Regular
+2012-12-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,87,306,Ohio,390,Regular
+2012-12-01T00:00:00,Major Market,Central,Tea,Chamomile,87,306,Colorado,280,Decaf
+2012-12-01T00:00:00,Major Market,Central,Tea,Chamomile,133,302,Illinois,280,Decaf
+2012-12-01T00:00:00,Major Market,Central,Tea,Mint,88,210,Illinois,190,Decaf
+2012-12-01T00:00:00,Major Market,Central,Tea,Darjeeling,72,221,Ohio,180,Regular
+2012-12-01T00:00:00,Major Market,Central,Tea,Earl Grey,121,320,Ohio,260,Regular
+2012-12-01T00:00:00,Major Market,Central,Tea,Green Tea,66,185,Colorado,150,Regular
+2012-12-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,-1,24,Iowa,20,Decaf
+2012-12-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,57,195,Wisconsin,190,Decaf
+2012-12-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,48,123,Missouri,150,Regular
+2012-12-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,50,176,Wisconsin,220,Regular
+2012-12-01T00:00:00,Small Market,Central,Tea,Chamomile,216,576,Iowa,530,Decaf
+2012-12-01T00:00:00,Small Market,Central,Tea,Lemon,123,312,Iowa,290,Decaf
+2012-12-01T00:00:00,Small Market,Central,Tea,Darjeeling,156,501,Iowa,410,Regular
+2012-12-01T00:00:00,Small Market,Central,Tea,Earl Grey,216,654,Iowa,540,Regular
+2012-12-01T00:00:00,Small Market,Central,Tea,Earl Grey,-16,45,Missouri,30,Regular
+2013-10-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,172,282,Colorado,260,Decaf
+2013-10-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,171,318,Illinois,300,Decaf
+2013-10-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,83,194,Colorado,260,Decaf
+2013-10-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,221,509,Illinois,710,Decaf
+2013-10-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,18,128,Ohio,170,Decaf
+2013-10-01T00:00:00,Major Market,Central,Coffee,Amaretto,197,322,Colorado,300,Regular
+2013-10-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,117,199,Colorado,280,Regular
+2013-10-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,332,637,Illinois,890,Regular
+2013-10-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,137,343,Ohio,470,Regular
+2013-10-01T00:00:00,Major Market,Central,Tea,Chamomile,137,343,Colorado,260,Decaf
+2013-10-01T00:00:00,Major Market,Central,Tea,Chamomile,197,322,Illinois,240,Decaf
+2013-10-01T00:00:00,Major Market,Central,Tea,Mint,172,282,Illinois,210,Decaf
+2013-10-01T00:00:00,Major Market,Central,Tea,Darjeeling,96,218,Ohio,140,Regular
+2013-10-01T00:00:00,Major Market,Central,Tea,Earl Grey,113,232,Ohio,150,Regular
+2013-10-01T00:00:00,Major Market,Central,Tea,Green Tea,110,218,Colorado,140,Regular
+2013-10-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,-3,25,Iowa,10,Decaf
+2013-10-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,91,215,Wisconsin,200,Decaf
+2013-10-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,53,106,Missouri,140,Regular
+2013-10-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,71,185,Wisconsin,250,Regular
+2013-10-01T00:00:00,Small Market,Central,Tea,Chamomile,332,637,Iowa,480,Decaf
+2013-10-01T00:00:00,Small Market,Central,Tea,Lemon,169,318,Iowa,240,Decaf
+2013-10-01T00:00:00,Small Market,Central,Tea,Lemon,-39,116,Missouri,80,Decaf
+2013-10-01T00:00:00,Small Market,Central,Tea,Darjeeling,221,509,Iowa,340,Regular
+2013-10-01T00:00:00,Small Market,Central,Tea,Earl Grey,272,604,Iowa,400,Regular
+2013-10-01T00:00:00,Small Market,Central,Tea,Earl Grey,-16,60,Missouri,30,Regular
+2013-11-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,125,211,Colorado,190,Decaf
+2013-11-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,157,296,Illinois,270,Decaf
+2013-11-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,86,201,Colorado,240,Decaf
+2013-11-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,191,451,Illinois,540,Decaf
+2013-11-01T00:00:00,Major Market,Central,Coffee,Amaretto,190,309,Colorado,280,Regular
+2013-11-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,71,131,Colorado,150,Regular
+2013-11-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,291,567,Illinois,680,Regular
+2013-11-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,159,387,Ohio,460,Regular
+2013-11-01T00:00:00,Major Market,Central,Tea,Chamomile,159,387,Colorado,330,Decaf
+2013-11-01T00:00:00,Major Market,Central,Tea,Chamomile,188,309,Illinois,260,Decaf
+2013-11-01T00:00:00,Major Market,Central,Tea,Mint,125,211,Illinois,180,Decaf
+2013-11-01T00:00:00,Major Market,Central,Tea,Darjeeling,92,210,Ohio,160,Regular
+2013-11-01T00:00:00,Major Market,Central,Tea,Earl Grey,88,201,Illinois,150,Regular
+2013-11-01T00:00:00,Major Market,Central,Tea,Earl Grey,132,261,Ohio,200,Regular
+2013-11-01T00:00:00,Major Market,Central,Tea,Green Tea,104,213,Colorado,160,Regular
+2013-11-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,-4,25,Iowa,20,Decaf
+2013-11-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,76,192,Wisconsin,170,Decaf
+2013-11-01T00:00:00,Small Market,Central,Coffee,Amaretto,12,42,Iowa,30,Regular
+2013-11-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,76,141,Missouri,160,Regular
+2013-11-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,67,175,Wisconsin,200,Regular
+2013-11-01T00:00:00,Small Market,Central,Tea,Chamomile,291,567,Iowa,490,Decaf
+2013-11-01T00:00:00,Small Market,Central,Tea,Lemon,159,296,Iowa,250,Decaf
+2013-11-01T00:00:00,Small Market,Central,Tea,Darjeeling,191,451,Iowa,350,Regular
+2013-11-01T00:00:00,Small Market,Central,Tea,Earl Grey,257,581,Iowa,450,Regular
+2013-12-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,131,224,Colorado,200,Decaf
+2013-12-01T00:00:00,Major Market,Central,Coffee,Decaf Irish Cream,181,332,Illinois,300,Decaf
+2013-12-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,70,179,Colorado,210,Decaf
+2013-12-01T00:00:00,Major Market,Central,Coffee,Decaf Espresso,233,534,Illinois,640,Decaf
+2013-12-01T00:00:00,Major Market,Central,Coffee,Amaretto,199,322,Colorado,290,Regular
+2013-12-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,79,142,Colorado,170,Regular
+2013-12-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,321,614,Illinois,730,Regular
+2013-12-01T00:00:00,Major Market,Central,Coffee,Caffe Mocha,129,326,Ohio,390,Regular
+2013-12-01T00:00:00,Major Market,Central,Tea,Chamomile,129,326,Colorado,280,Decaf
+2013-12-01T00:00:00,Major Market,Central,Tea,Chamomile,197,322,Illinois,280,Decaf
+2013-12-01T00:00:00,Major Market,Central,Tea,Mint,131,224,Illinois,190,Decaf
+2013-12-01T00:00:00,Major Market,Central,Tea,Darjeeling,107,236,Ohio,180,Regular
+2013-12-01T00:00:00,Major Market,Central,Tea,Earl Grey,180,341,Ohio,260,Regular
+2013-12-01T00:00:00,Major Market,Central,Tea,Green Tea,98,197,Colorado,150,Regular
+2013-12-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,-1,26,Iowa,20,Decaf
+2013-12-01T00:00:00,Small Market,Central,Coffee,Decaf Irish Cream,85,208,Wisconsin,190,Decaf
+2013-12-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,71,131,Missouri,150,Regular
+2013-12-01T00:00:00,Small Market,Central,Coffee,Caffe Mocha,74,188,Wisconsin,220,Regular
+2013-12-01T00:00:00,Small Market,Central,Tea,Chamomile,321,614,Iowa,530,Decaf
+2013-12-01T00:00:00,Small Market,Central,Tea,Lemon,183,332,Iowa,290,Decaf
+2013-12-01T00:00:00,Small Market,Central,Tea,Darjeeling,232,534,Iowa,410,Regular
+2013-12-01T00:00:00,Small Market,Central,Tea,Earl Grey,321,697,Iowa,540,Regular
+2013-12-01T00:00:00,Small Market,Central,Tea,Earl Grey,-24,48,Missouri,30,Regular
+2012-10-01T00:00:00,Major Market,West,Coffee,Decaf Irish Cream,-117,130,California,190,Decaf
+2012-10-01T00:00:00,Major Market,West,Coffee,Decaf Espresso,225,598,California,550,Decaf
+2012-10-01T00:00:00,Major Market,West,Coffee,Amaretto,-74,109,California,150,Regular
+2012-10-01T00:00:00,Major Market,West,Coffee,Caffe Latte,149,478,California,430,Regular
+2012-10-01T00:00:00,Major Market,West,Coffee,Caffe Mocha,27,298,California,270,Regular
+2012-10-01T00:00:00,Major Market,West,Tea,Chamomile,115,265,California,210,Decaf
+2012-10-01T00:00:00,Major Market,West,Tea,Lemon,186,520,California,410,Decaf
+2012-10-01T00:00:00,Major Market,West,Tea,Darjeeling,134,302,California,140,Regular
+2012-10-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,29,107,Oregon,150,Decaf
+2012-10-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,34,177,Utah,260,Decaf
+2012-10-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,17,230,Washington,330,Decaf
+2012-10-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,91,322,Oregon,290,Decaf
+2012-10-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,48,174,Washington,150,Decaf
+2012-10-01T00:00:00,Small Market,West,Coffee,Amaretto,-5,122,Oregon,170,Regular
+2012-10-01T00:00:00,Small Market,West,Coffee,Amaretto,36,142,Utah,200,Regular
+2012-10-01T00:00:00,Small Market,West,Coffee,Caffe Latte,10,51,Washington,30,Regular
+2012-10-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,14,52,Nevada,30,Regular
+2012-10-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,87,236,Utah,210,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Chamomile,26,298,Nevada,240,Decaf
+2012-10-01T00:00:00,Small Market,West,Tea,Chamomile,115,313,Washington,250,Decaf
+2012-10-01T00:00:00,Small Market,West,Tea,Lemon,120,367,Nevada,290,Decaf
+2012-10-01T00:00:00,Small Market,West,Tea,Lemon,73,205,Oregon,160,Decaf
+2012-10-01T00:00:00,Small Market,West,Tea,Mint,114,298,Nevada,240,Decaf
+2012-10-01T00:00:00,Small Market,West,Tea,Mint,-27,109,Utah,80,Decaf
+2012-10-01T00:00:00,Small Market,West,Tea,Darjeeling,224,598,Nevada,290,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Darjeeling,16,53,Oregon,20,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Earl Grey,149,478,Nevada,230,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Green Tea,-363,21,Nevada,0,Regular
+2012-10-01T00:00:00,Small Market,West,Tea,Green Tea,-12,56,Utah,20,Regular
+2012-11-01T00:00:00,Major Market,West,Coffee,Decaf Irish Cream,-127,146,California,170,Decaf
+2012-11-01T00:00:00,Major Market,West,Coffee,Decaf Espresso,197,532,California,510,Decaf
+2012-11-01T00:00:00,Major Market,West,Coffee,Amaretto,-56,116,California,130,Regular
+2012-11-01T00:00:00,Major Market,West,Coffee,Caffe Latte,129,423,California,410,Regular
+2012-11-01T00:00:00,Major Market,West,Coffee,Caffe Mocha,26,289,California,280,Regular
+2012-11-01T00:00:00,Major Market,West,Tea,Chamomile,84,198,California,180,Decaf
+2012-11-01T00:00:00,Major Market,West,Tea,Lemon,174,490,California,450,Decaf
+2012-11-01T00:00:00,Major Market,West,Tea,Darjeeling,128,290,California,210,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,38,184,Utah,210,Decaf
+2012-11-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,16,224,Washington,260,Decaf
+2012-11-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,108,363,Oregon,350,Decaf
+2012-11-01T00:00:00,Small Market,West,Coffee,Amaretto,39,150,Utah,170,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,9,39,Nevada,30,Regular
+2012-11-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,85,231,Utah,220,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Chamomile,26,289,Nevada,260,Decaf
+2012-11-01T00:00:00,Small Market,West,Tea,Chamomile,122,325,Washington,300,Decaf
+2012-11-01T00:00:00,Small Market,West,Tea,Lemon,138,412,Nevada,380,Decaf
+2012-11-01T00:00:00,Small Market,West,Tea,Lemon,70,200,Oregon,180,Decaf
+2012-11-01T00:00:00,Small Market,West,Tea,Mint,107,278,Nevada,250,Decaf
+2012-11-01T00:00:00,Small Market,West,Tea,Darjeeling,196,532,Nevada,380,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Earl Grey,128,423,Nevada,300,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Earl Grey,62,197,Oregon,140,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Green Tea,-340,32,Nevada,0,Regular
+2012-11-01T00:00:00,Small Market,West,Tea,Green Tea,89,245,Oregon,170,Regular
+2012-12-01T00:00:00,Major Market,West,Coffee,Decaf Irish Cream,-149,192,California,220,Decaf
+2012-12-01T00:00:00,Major Market,West,Coffee,Decaf Espresso,216,576,California,550,Decaf
+2012-12-01T00:00:00,Major Market,West,Coffee,Amaretto,-88,102,California,120,Regular
+2012-12-01T00:00:00,Major Market,West,Coffee,Caffe Latte,157,501,California,480,Regular
+2012-12-01T00:00:00,Major Market,West,Coffee,Caffe Mocha,31,322,California,310,Regular
+2012-12-01T00:00:00,Major Market,West,Tea,Chamomile,89,210,California,190,Decaf
+2012-12-01T00:00:00,Major Market,West,Tea,Lemon,188,525,California,480,Decaf
+2012-12-01T00:00:00,Major Market,West,Tea,Darjeeling,134,302,California,220,Regular
+2012-12-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,26,153,Utah,180,Decaf
+2012-12-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,20,250,Washington,290,Decaf
+2012-12-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,87,306,Oregon,290,Decaf
+2012-12-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,51,176,Washington,170,Decaf
+2012-12-01T00:00:00,Small Market,West,Coffee,Amaretto,36,139,Utah,160,Regular
+2012-12-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,10,41,Nevada,30,Regular
+2012-12-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,77,214,Utah,200,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Chamomile,32,322,Nevada,290,Decaf
+2012-12-01T00:00:00,Small Market,West,Tea,Chamomile,105,289,Washington,260,Decaf
+2012-12-01T00:00:00,Small Market,West,Tea,Lemon,194,534,Nevada,490,Decaf
+2012-12-01T00:00:00,Small Market,West,Tea,Lemon,66,185,Oregon,170,Decaf
+2012-12-01T00:00:00,Small Market,West,Tea,Mint,122,312,Nevada,290,Decaf
+2012-12-01T00:00:00,Small Market,West,Tea,Darjeeling,215,576,Nevada,420,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Earl Grey,157,501,Nevada,360,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Earl Grey,73,221,Oregon,160,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Green Tea,-408,31,Nevada,0,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Green Tea,121,320,Oregon,230,Regular
+2012-12-01T00:00:00,Small Market,West,Tea,Green Tea,-15,45,Utah,30,Regular
+2013-10-01T00:00:00,Major Market,West,Coffee,Decaf Irish Cream,-174,139,California,190,Decaf
+2013-10-01T00:00:00,Major Market,West,Coffee,Decaf Espresso,334,637,California,550,Decaf
+2013-10-01T00:00:00,Major Market,West,Coffee,Amaretto,-110,116,California,150,Regular
+2013-10-01T00:00:00,Major Market,West,Coffee,Caffe Latte,221,509,California,430,Regular
+2013-10-01T00:00:00,Major Market,West,Coffee,Caffe Mocha,40,318,California,270,Regular
+2013-10-01T00:00:00,Major Market,West,Tea,Chamomile,171,282,California,210,Decaf
+2013-10-01T00:00:00,Major Market,West,Tea,Lemon,276,554,California,410,Decaf
+2013-10-01T00:00:00,Major Market,West,Tea,Darjeeling,199,322,California,140,Regular
+2013-10-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,43,114,Oregon,150,Decaf
+2013-10-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,50,189,Utah,260,Decaf
+2013-10-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,25,245,Washington,330,Decaf
+2013-10-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,135,343,Oregon,290,Decaf
+2013-10-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,71,185,Washington,150,Decaf
+2013-10-01T00:00:00,Small Market,West,Coffee,Amaretto,-7,130,Oregon,170,Regular
+2013-10-01T00:00:00,Small Market,West,Coffee,Amaretto,53,151,Utah,200,Regular
+2013-10-01T00:00:00,Small Market,West,Coffee,Caffe Latte,15,54,Washington,30,Regular
+2013-10-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,21,55,Nevada,30,Regular
+2013-10-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,129,251,Utah,210,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Chamomile,39,318,Nevada,240,Decaf
+2013-10-01T00:00:00,Small Market,West,Tea,Chamomile,171,334,Washington,250,Decaf
+2013-10-01T00:00:00,Small Market,West,Tea,Lemon,178,391,Nevada,290,Decaf
+2013-10-01T00:00:00,Small Market,West,Tea,Lemon,108,218,Oregon,160,Decaf
+2013-10-01T00:00:00,Small Market,West,Tea,Mint,169,318,Nevada,240,Decaf
+2013-10-01T00:00:00,Small Market,West,Tea,Mint,-40,116,Utah,80,Decaf
+2013-10-01T00:00:00,Small Market,West,Tea,Darjeeling,332,637,Nevada,290,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Darjeeling,24,56,Oregon,20,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Earl Grey,221,509,Nevada,230,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Green Tea,-539,22,Nevada,0,Regular
+2013-10-01T00:00:00,Small Market,West,Tea,Green Tea,-18,60,Utah,20,Regular
+2013-11-01T00:00:00,Major Market,West,Coffee,Decaf Irish Cream,-188,156,California,170,Decaf
+2013-11-01T00:00:00,Major Market,West,Coffee,Decaf Espresso,292,567,California,510,Decaf
+2013-11-01T00:00:00,Major Market,West,Coffee,Amaretto,-83,124,California,130,Regular
+2013-11-01T00:00:00,Major Market,West,Coffee,Caffe Latte,191,451,California,410,Regular
+2013-11-01T00:00:00,Major Market,West,Coffee,Caffe Mocha,39,308,California,280,Regular
+2013-11-01T00:00:00,Major Market,West,Tea,Chamomile,125,211,California,180,Decaf
+2013-11-01T00:00:00,Major Market,West,Tea,Lemon,258,522,California,450,Decaf
+2013-11-01T00:00:00,Major Market,West,Tea,Darjeeling,190,309,California,210,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,56,196,Utah,210,Decaf
+2013-11-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,24,239,Washington,260,Decaf
+2013-11-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,160,387,Oregon,350,Decaf
+2013-11-01T00:00:00,Small Market,West,Coffee,Amaretto,58,160,Utah,170,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,13,42,Nevada,30,Regular
+2013-11-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,126,246,Utah,220,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Chamomile,39,308,Nevada,260,Decaf
+2013-11-01T00:00:00,Small Market,West,Tea,Chamomile,181,346,Washington,300,Decaf
+2013-11-01T00:00:00,Small Market,West,Tea,Lemon,205,439,Nevada,380,Decaf
+2013-11-01T00:00:00,Small Market,West,Tea,Lemon,104,213,Oregon,180,Decaf
+2013-11-01T00:00:00,Small Market,West,Tea,Mint,159,296,Nevada,250,Decaf
+2013-11-01T00:00:00,Small Market,West,Tea,Darjeeling,291,567,Nevada,380,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Earl Grey,190,451,Nevada,300,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Earl Grey,92,210,Oregon,140,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Green Tea,-505,34,Nevada,0,Regular
+2013-11-01T00:00:00,Small Market,West,Tea,Green Tea,132,261,Oregon,170,Regular
+2013-12-01T00:00:00,Major Market,West,Coffee,Decaf Irish Cream,-221,205,California,220,Decaf
+2013-12-01T00:00:00,Major Market,West,Coffee,Decaf Espresso,321,614,California,550,Decaf
+2013-12-01T00:00:00,Major Market,West,Coffee,Amaretto,-131,109,California,120,Regular
+2013-12-01T00:00:00,Major Market,West,Coffee,Caffe Latte,233,534,California,480,Regular
+2013-12-01T00:00:00,Major Market,West,Coffee,Caffe Mocha,46,343,California,310,Regular
+2013-12-01T00:00:00,Major Market,West,Tea,Chamomile,132,224,California,190,Decaf
+2013-12-01T00:00:00,Major Market,West,Tea,Lemon,279,559,California,480,Decaf
+2013-12-01T00:00:00,Major Market,West,Tea,Darjeeling,199,322,California,220,Regular
+2013-12-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,39,163,Utah,180,Decaf
+2013-12-01T00:00:00,Small Market,West,Coffee,Decaf Irish Cream,30,266,Washington,290,Decaf
+2013-12-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,129,326,Oregon,290,Decaf
+2013-12-01T00:00:00,Small Market,West,Coffee,Decaf Espresso,76,188,Washington,170,Decaf
+2013-12-01T00:00:00,Small Market,West,Coffee,Amaretto,53,148,Utah,160,Regular
+2013-12-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,15,44,Nevada,30,Regular
+2013-12-01T00:00:00,Small Market,West,Coffee,Caffe Mocha,114,228,Utah,200,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Chamomile,47,343,Nevada,290,Decaf
+2013-12-01T00:00:00,Small Market,West,Tea,Chamomile,156,308,Washington,260,Decaf
+2013-12-01T00:00:00,Small Market,West,Tea,Lemon,288,569,Nevada,490,Decaf
+2013-12-01T00:00:00,Small Market,West,Tea,Lemon,98,197,Oregon,170,Decaf
+2013-12-01T00:00:00,Small Market,West,Tea,Mint,181,332,Nevada,290,Decaf
+2013-12-01T00:00:00,Small Market,West,Tea,Darjeeling,319,614,Nevada,420,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Earl Grey,233,534,Nevada,360,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Earl Grey,108,236,Oregon,160,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Green Tea,-605,33,Nevada,0,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Green Tea,180,341,Oregon,230,Regular
+2013-12-01T00:00:00,Small Market,West,Tea,Green Tea,-22,48,Utah,30,Regular
