@@ -26,7 +26,7 @@ Workflow scheduling (optional if Gallery used)
 Error handling and workflow optimization
 
 # 📁 Repository Structure
-''' sql
+```sql
 /Project-Name/
 │
 ├── Workflows/
@@ -40,7 +40,8 @@ Error handling and workflow optimization
 ├── Screenshots/
 │   └── workflow_preview.png
 │
-└── README.md '''
+└── README.md
+```
 # 📌 Getting Started
   1. Clone the repository:
     git clone https://github.com/your-username/your-alteryx-project.git
